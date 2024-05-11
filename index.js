@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["₍ꕤᐢ..ᐢ₎"," ﾟ. playing in the meadows ✿ ₊˚","☁️ · floating on clouds "," · ᶻ 𝗓 napping in the sun ♡ ","˗ˏˋ watching the swans  ´ˎ˗", "₊🌼🌷🦢 . l u n e . ✿ "," ⸝⸝ .⋆💦🌱🌼"," ♡₊˚ 🦢・₊"];
 
 
 let currentIndex = 0;
